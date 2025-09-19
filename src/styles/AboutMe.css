@@ -1,0 +1,38 @@
+.about-section {
+  background: rgb(238, 237, 237);
+  font-family: "Georgia", serif;
+  color: #333;
+}
+
+.about-title {
+  font-size: 2rem;
+  font-weight: 400;
+  letter-spacing: 2px;
+  color: #111;
+}
+.about-text {
+  font-size: 15px;
+  line-height: 1.8;
+  color: #444;
+  font-family: "Georgia", serif;
+  margin-bottom: 1.5rem;
+}
+
+.about-divider {
+  width: 100%;
+  margin: 1.5rem auto;
+  border: 0;
+  border-top: 2px solid #ccc;
+}
+
+.about-btn {
+  font-weight: 500;
+  padding: 12px 24px;
+  transition: all 0.3s ease;
+  
+}
+
+.about-btn:hover {
+  background: #333;
+  color: #fff;
+}

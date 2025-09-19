@@ -1,0 +1,43 @@
+.hero-img{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 70vh;
+    position: relative;
+}
+.hero-img ::before{
+    content: "";
+    background: url(https://static.vecteezy.com/system/resources/previews/059/512/733/non_2x/modern-boardroom-with-view-of-city-skyline-at-sunset-free-photo.jpeg);
+    background-size: cover;
+    background-position: center top;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+.heading{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+      font-family: 'Georgia', serif;  
+
+}
+.hero-img h1{
+    font-size: 2.4rem;
+    color: white;
+}
+.hero-img p{
+    margin-top: 2px;
+    font-size: 1.4rem;
+    text-align: center;
+    color: white;
+}
+@media screen and (max-width: 640px){
+    .hero-img h1{
+        font-size: 2rem;
+    }
+}
