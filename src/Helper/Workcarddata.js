@@ -1,15 +1,22 @@
 import pro1 from "../assets/project1.png";
 import pro2 from "../assets/project2.png";
 import pro3 from "../assets/project3.png";
+<<<<<<< HEAD
 import pro4 from "../assets/project4.png";
 import pro5 from "../assets/project5.png";
+=======
+>>>>>>> fe4c3370c8895d5cd7384901b1e0e3ee687a7690
 
 const WorkCardData = [
   {
     imgsrc: pro1,
     title: "E-commerce Website design",
     text: "This is the official website for Jessica Brooks, designed and developed using React.js and Bootstrap. The site is fully responsive and optimized for all devices. React.js ensures dynamic rendering, while Bootstrap provides a clean and modern layout. It reflects a seamless blend of performance and design.",
+<<<<<<< HEAD
     view: "https://github.com/sharmakarnan/Jessica-Brooks",
+=======
+    view: "https://github.com/sharmakarnan/JessicaBrooksWeb",
+>>>>>>> fe4c3370c8895d5cd7384901b1e0e3ee687a7690
   },
   {
     imgsrc: pro2,
@@ -21,6 +28,7 @@ const WorkCardData = [
     imgsrc: pro3,
     title: "Employee Registeration Form",
     text:  "Developed an Employee Management System using Angular (frontend) and Spring Boot (backend). The system allows users to register new employees, view an employee list, update employee details, view a single employee record, and delete employees. Implemented form validation, reusable components, and service-based API integration. Designed the UI with Bootstrap for responsiveness and clarity, ensuring smooth CRUD operations and an intuitive user experience.",
+<<<<<<< HEAD
     view: "https://github.com/sharmakarnan/EmployeeForm",
   },
   {
@@ -34,6 +42,9 @@ const WorkCardData = [
     title: "Movie Ticket Booking System",
     text:  "Developed a full-stack web application using Java, Spring Boot, React.js, and MySQL for online movie ticket booking.Implemented user authentication, seat selection, and real-time booking confirmation features.Built RESTful APIs for managing movies, theaters, schedules, and payments efficiently.Designed a responsive frontend using React.js with Bootstrap for a smooth user experience.Tested APIs using Postman and ensured secure and reliable data transactions through Spring Data JPA.",
     view: "https://github.com/sharmakarnan/Movie-Ticket-Booking",
+=======
+    view: "https://github.com/sharmakarnan/JessicaBrooksWeb",
+>>>>>>> fe4c3370c8895d5cd7384901b1e0e3ee687a7690
   },
 ];
 

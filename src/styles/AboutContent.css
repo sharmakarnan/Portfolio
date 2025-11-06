@@ -49,7 +49,11 @@
     border:1px solid #333;
     border-radius: 100%;
     width: 350px;
+<<<<<<< HEAD
     height: 390px;
+=======
+    height: 300px;
+>>>>>>> fe4c3370c8895d5cd7384901b1e0e3ee687a7690
      position: relative;
     align-items: center;
     text-align: center;
