@@ -31,11 +31,7 @@ const ProfileDetails = () => {
           <h3 className="section-heading">Technical Skills</h3>
           <ul className="profile-list">
             <li><strong>Languages:</strong> HTML, CSS, JavaScript, SQL, Java</li>
-<<<<<<< HEAD
             <li><strong>Frameworks:</strong> React.js, Angular (Basic), Bootstrap, Spring Boot</li>
-=======
-            <li><strong>Frameworks:</strong> React.js, Angular (Basic), Bootstrap, Spring Boot, Hibernate, RESTful API</li>
->>>>>>> fe4c3370c8895d5cd7384901b1e0e3ee687a7690
             <li><strong>Libraries:</strong> React Router, Material UI, JWT</li>
             <li><strong>Databases:</strong> MySQL, Oracle</li>
             <li><strong>Dev Tools:</strong> VS Code, STS, Eclipse, GitHub, Postman, RestMan</li>
@@ -49,7 +45,6 @@ const ProfileDetails = () => {
           <h3 className="section-heading">Internship & Experience</h3>
           <ul className="profile-list">
             <li>
-<<<<<<< HEAD
               <strong>Trainee Software Engineer</strong> – Aadasteck, Chennai
               (Apr 2025 – Present)  
               <br />
@@ -63,13 +58,6 @@ Working at Aadasteck as a Trainee Software Engineer ,responsible for developing 
  integration for better user experience.
  
         </li>
-=======
-              <strong>Java Full Stack Developer</strong> – Aadasteck, Chennai
-              (Apr 2025 – Present)  
-              <br />
-              • Backend Development with Java & Spring Boot, handling APIs and database connections.
-            </li>
->>>>>>> fe4c3370c8895d5cd7384901b1e0e3ee687a7690
             <li>
               <strong>Junior Software Trainee Intern</strong> – Eagle-HiTech
               Softclou Pvt Ltd, Chennai (Sep 2024 – Jan 2025)  

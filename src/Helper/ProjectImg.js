@@ -4,11 +4,8 @@ import "../styles/ProjectImg.css";
 import img1 from "../assets/project1.png";
 import img2 from "../assets/project2.png";
 import img3 from "../assets/project3.png";
-<<<<<<< HEAD
 import img4 from "../assets/project4.png";
 import img5 from "../assets/project5.png";
-=======
->>>>>>> fe4c3370c8895d5cd7384901b1e0e3ee687a7690
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min.js";
 import {Link} from 'react-router-dom';
@@ -35,15 +32,12 @@ const ProjectImg = () => {
             <div className="carousel-item">
               <img src={img3} className="d-block project-img" alt="Project 3" />
             </div>
-<<<<<<< HEAD
              <div className="carousel-item">
               <img src={img4} className="d-block project-img" alt="Project 4" />
             </div>
              <div className="carousel-item">
               <img src={img5} className="d-block project-img" alt="Project 5" />
             </div>
-=======
->>>>>>> fe4c3370c8895d5cd7384901b1e0e3ee687a7690
            
           <button className="carousel-control-prev" type="button" data-bs-target="#projectsCarousel" data-bs-slide="prev">
             <span className="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -56,11 +50,7 @@ const ProjectImg = () => {
           </div>
          </div>
           <div className="text-center mt-3" data-aos="fade-up">
-<<<<<<< HEAD
                        <Link to="/project" className="btn btn-outline-dark about-btn">
-=======
-                       <Link to="/Project" className="btn btn-outline-dark about-btn">
->>>>>>> fe4c3370c8895d5cd7384901b1e0e3ee687a7690
                          Learn More
                        </Link>
              </div>

@@ -40,11 +40,7 @@ const AboutMe = () => {
                full-stack software development.
             </p>
             <div className="text-end mt-3" data-aos="fade-up">
-<<<<<<< HEAD
               <Link to="/about" className="btn btn-outline-dark about-btn">
-=======
-              <Link to="/About" className="btn btn-outline-dark about-btn">
->>>>>>> fe4c3370c8895d5cd7384901b1e0e3ee687a7690
                 Learn More
               </Link>
             </div>

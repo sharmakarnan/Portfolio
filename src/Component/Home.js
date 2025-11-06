@@ -14,10 +14,6 @@ const home = () => {
       <Hero/>
        <ProjectImg/>
       <AboutMe/>
-<<<<<<< HEAD
-=======
-      <Form/>
->>>>>>> fe4c3370c8895d5cd7384901b1e0e3ee687a7690
       <Footer/>
     </div>
   )

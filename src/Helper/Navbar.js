@@ -45,14 +45,6 @@ const Navbar = () => {
             About
           </NavLink>
         </li>
-<<<<<<< HEAD
-=======
-        <li>
-          <NavLink to="/Contact" activeClassName="active-link">
-            Contact
-          </NavLink>
-        </li>
->>>>>>> fe4c3370c8895d5cd7384901b1e0e3ee687a7690
       </ul>
       <div className="hamburger" onClick={handleClick}>
         {click ? (
