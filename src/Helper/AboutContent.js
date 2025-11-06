@@ -5,6 +5,13 @@ import React1 from "../assets/IntoImg.jpg";
 
 
 const AboutContent = () => {
+
+   const handleRedeploy = async () => {
+    await fetch("https://api.vercel.com/v1/integrations/deploy/prj_F7wTKjCPuBsm0veja9dX7Sqn00yM/A8UAZY5bMo", {
+      method: "POST"
+    });
+    alert("✅ Redeploy triggered successfully!");
+  };
   return (
     <div className='about'>
         <div className='left'>
