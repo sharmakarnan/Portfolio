@@ -1,0 +1,21 @@
+.projects-section {
+  background: rgb(238, 237, 237);
+  font-family: "Georgia", serif;
+  color: #333;
+}
+
+.projects-title {
+  font-size: 2.2rem;
+  font-weight: 300;
+  color: #111;
+}
+
+.project-img {
+  height: 700px;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+.carousel-inner{
+  width: 100vp;
+}
